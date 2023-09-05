@@ -2,7 +2,7 @@
     Hello, I’m Parul Mann ✨
 </h1>
 
-<p align="center"> I am a B.Tech. CSE student at Indira Gandhi Delhi Technical University for Women. I am an AR/VR developer and have worked on several AR Applications. I love building games in Unity. I also have experience with ML/AI, WebDev frontend and UX/UI Design. I am passionate about working in the TechforGood domain and always looking to collaborate on such projects.  </p> 
+<p align="center"> I am a B.Tech. CSE student at Indira Gandhi Delhi Technical University for Women. I am an AR/VR developer and have worked on many AR and Game Development Applications in Unity. I also have extensive experience with ML/AI, WebDev frontend and UX/UI Design. I am passionate about working in the TechforGood domain and always looking to collaborate on such projects.  </p> 
 
 <h3 align="center"> I am creative, enthusiastic about technology and always looking to learn new things! </h3>
 
@@ -13,11 +13,11 @@
 
 - :heartbeat: I’m enthusiastic about **DSA and Problem Solving.**
 
-- 👯 Reach out to me at **parulmann12@gmail.com**
+- 👯 Reach out to me at **parulmann1207@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/parulmann2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parulmann2" height="30" width="40" /></a>
+<a href="https://twitter.com/parul_mann_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parulmann2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parul-mann-577966203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parul-mann-577966203" height="30" width="40" /></a>
 </p>
 
